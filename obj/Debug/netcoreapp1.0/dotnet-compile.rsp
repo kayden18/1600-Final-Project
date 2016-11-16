@@ -1,5 +1,5 @@
---temp-output:c:\Users\10789755\Documents\1600class\1600finalproject\obj\Debug\netcoreapp1.0\
---out:c:\Users\10789755\Documents\1600class\1600finalproject\bin\Debug\netcoreapp1.0\1600finalproject.dll
+--temp-output:C:\Users\10789755\Documents\1600class\1600finalproject\obj\Debug\netcoreapp1.0\
+--out:C:\Users\10789755\Documents\1600class\1600finalproject\bin\Debug\netcoreapp1.0\1600finalproject.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -87,4 +87,4 @@
 --reference:C:\Users\10789755\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\10789755\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\10789755\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-c:\Users\10789755\Documents\1600class\1600finalproject\Program.cs
+C:\Users\10789755\Documents\1600class\1600finalproject\Program.cs

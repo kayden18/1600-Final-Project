@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"c:\Users\10789755\Documents\1600class\1600finalproject\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\Users\10789755\Documents\1600class\1600finalproject\bin\Debug\netcoreapp1.0\1600finalproject.dll"
+"C:\Users\10789755\Documents\1600class\1600finalproject\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\10789755\Documents\1600class\1600finalproject\bin\Debug\netcoreapp1.0\1600finalproject.dll"
 -r:"C:\Users\10789755\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\10789755\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\10789755\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"C:\Users\10789755\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\10789755\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\10789755\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"c:\Users\10789755\Documents\1600class\1600finalproject\Program.cs"
+"C:\Users\10789755\Documents\1600class\1600finalproject\Program.cs"
