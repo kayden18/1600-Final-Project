@@ -1,11 +1,8 @@
-﻿using System.Collections.Generic;
-using System;
-
-namespace ConsoleApplication
+﻿public class Program
 {
-    public class Program
+    public static Game myGame = new Game();
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args){
-            WeaponList wl = new WeaponList();
-            wl.RunList();
-        }
+        myGame.Start();
+    }
+}

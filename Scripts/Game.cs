@@ -72,3 +72,16 @@ public class Game
 
 
     public string name;
+    private int score;
+
+}
+/*
+        After prompt the game for a name we:
+        Enter a cave
+        find Health.
+        Meet a dragon. (need an enemy class)
+        pick weapon.
+        battle dragon. (battle class)
+        if we win: get health and ammo
+        if dragon wins: we loose health;
+        */
