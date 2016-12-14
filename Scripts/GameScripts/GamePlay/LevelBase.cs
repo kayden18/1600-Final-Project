@@ -7,7 +7,7 @@ public class LevelBase {
 
     private void RunLevel()
     {
-        Console.WriteLine("Hey Anthony");
+        Console.WriteLine("Hey Player1");
     }
 
     public string StartMessage;
